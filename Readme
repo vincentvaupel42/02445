@@ -1,1 +1,4 @@
-Her er vores kode
+The repository consists of:
+ - The dataset
+ - The Jupyter Notebook with the code doing the graphs and confidence intervals
+ - The excact prompt for the models
