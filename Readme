@@ -1,8 +1,8 @@
 The repository consists of:
- - The dataset
+ - Pilot study dataset
+ - Full experiment dataset
  - The Jupyter Notebook with the code analyzing the data with graphs and tables
  - The excact prompt for the models
- - Graphs and other visualization
-And others
+ - Graphs and other visualization as PNG
 
 Made by Bertram Sillesen, Noah Westheimer, Lasse Lundbaek and Vincent Vaupel
