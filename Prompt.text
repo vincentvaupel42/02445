@@ -1,5 +1,5 @@
 You are given a Machine Learning exam consisting of a given number of multiple 
-choice questions. Each question has exactly 4 answer options labeled A, B, C, D. 
+choice questions. Each question has exactly 5 answer options labeled A, B, C, D, E. 
 Exactly one option is correct.
 
 Your task: Answer every question. For each question, output only the 
@@ -21,7 +21,7 @@ Strict rules:
 
 - Output exactly 27 lines, one per question.
 
-- Each answer must be a single letter from A to D
+- Each answer must be a single letter from A to E
 
 - Do not output explanations, reasoning, headers, or any other text.
 
